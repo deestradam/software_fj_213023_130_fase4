@@ -1,0 +1,11 @@
+[2026-10-27 16:29:57] [INFO] Cliente Carlos registrado exitosamente.
+[2026-10-27 16:29:57] [WARNING] Validación de cliente fallida: La cédula solo debe contener números.
+[2026-10-27 16:29:57] [INFO] Servicio Sala Ejecutiva creado.
+[2026-10-27 16:29:57] [WARNING] Validación de servicio fallida: El costo base no puede ser negativo.
+[2026-10-27 16:29:57] [INFO] Servicios de equipo y asesoría creados.
+[2026-10-27 16:29:57] [INFO] Reserva R001 confirmada. Total: 180000.0
+[2026-10-27 16:29:57] [INFO] Reserva R002 confirmada. Total: 645000.0
+[2026-10-27 16:29:57] [WARNING] Reserva fallida controlada: La cantidad solicitada no es válida.
+[2026-10-27 16:29:57] [INFO] Reserva R003 confirmada. Total: 357000.0
+[2026-10-27 16:29:57] [INFO] Reserva R001 cancelada.
+[2026-10-27 16:29:57] [WARNING] Error al cancelar reserva: Esta reserva ya se encuentra cancelada.
