@@ -1,0 +1,14 @@
+[2026-10-27 16:29:57] [INFO] === INICIO DE SIMULACIÓN ===
+[2026-10-27 16:29:57] [INFO] Cliente válido creado: Cliente: Carlos Perez (CC: 1098765432)
+[2026-10-27 16:29:57] [INFO] Servicios válidos creados: Sala, Equipo, Asesoría
+[2026-10-27 16:29:57] [INFO] Op1: Reserva R001 confirmada. Total: 200000.0
+[2026-10-27 16:29:57] [INFO] Op2: Reserva R002 confirmada. Total: 225000.0
+[2026-10-27 16:29:57] [INFO] Op3: Reserva R003 confirmada. Total: 600000.0
+[2026-10-27 16:29:57] [INFO] Op4: Reserva R004 confirmada. Total: 430000.0
+[2026-10-27 16:29:57] [INFO] Op5: Reserva R005 confirmada. Total: 357000.0
+[2026-10-27 16:29:57] [WARNING] Op6: Reserva inválida controlada: No se pudo completar la reserva R006: La cantidad solicitada no es válida.
+[2026-10-27 16:29:57] [WARNING] Op7: Cliente inválido controlado: La cédula solo debe contener números.
+[2026-10-27 16:29:57] [WARNING] Op8: Servicio inválido controlado: El costo base no puede ser negativo.
+[2026-10-27 16:29:57] [INFO] Op9: Reserva R001 cancelada.
+[2026-10-27 16:29:57] [WARNING] Op10: Doble cancelación controlada: Esta reserva ya se encuentra cancelada.
+[2026-10-27 16:29:57] [INFO] === FIN DE SIMULACIÓN ===
